@@ -1,4 +1,4 @@
-I'm Suryansh — a Software Developer with 1+ years of hands-on experience crafting efficient, user-centric software solutions.
+I'm Suryansh — a Software Engineer with around 2 yoe of hands-on experience crafting efficient, user-centric software solutions.
 
 I have worked on Typescript, Javascript, Node, Nest.js, Next.js, React.js, Express, PgSql, MongoDB. 
 
